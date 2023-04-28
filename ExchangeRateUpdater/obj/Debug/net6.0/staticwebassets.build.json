@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "W4Duhhe3Q0m7EbwqNnbPKm7mUt5bk7hrpKuPrIIw9zM=",
+  "Source": "ExchangeRateUpdater",
+  "BasePath": "_content/ExchangeRateUpdater",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

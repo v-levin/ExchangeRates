@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3a2CXbuQJ4dmZJdw7ULOCzzuEvxPIAzbCiEBibZM0nnTl8JN+skbWtSqN73cS0Bd4fa/e18+XiersIeYp7kvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\levin\\OneDrive\\Documents\\Mews task\\developers\\jobs\\Backend\\Task\\ExchangeRateUpdater.Contracts\\ExchangeRateUpdater.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\levin\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\levin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\levin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\levin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

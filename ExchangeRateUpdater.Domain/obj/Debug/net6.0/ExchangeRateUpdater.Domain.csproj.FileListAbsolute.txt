@@ -1,0 +1,15 @@
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\bin\Debug\net6.0\ExchangeRateUpdater.Domain.deps.json
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\bin\Debug\net6.0\ExchangeRateUpdater.Domain.dll
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\bin\Debug\net6.0\ExchangeRateUpdater.Domain.pdb
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\bin\Debug\net6.0\ExchangeRateUpdater.Contracts.dll
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\bin\Debug\net6.0\ExchangeRateUpdater.Contracts.pdb
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\ExchangeRateUpdater.Domain.csproj.AssemblyReference.cache
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\ExchangeRateUpdater.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\ExchangeRateUpdater.Domain.AssemblyInfoInputs.cache
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\ExchangeRateUpdater.Domain.AssemblyInfo.cs
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\ExchangeRateUpdater.Domain.csproj.CoreCompileInputs.cache
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\ExchangeRateUpdater.Domain.csproj.CopyComplete
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\ExchangeRateUpdater.Domain.dll
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\refint\ExchangeRateUpdater.Domain.dll
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\ExchangeRateUpdater.Domain.pdb
+C:\Users\levin\OneDrive\Documents\Mews task\developers\jobs\Backend\Task\ExchangeRateUpdater.Domain\obj\Debug\net6.0\ref\ExchangeRateUpdater.Domain.dll
